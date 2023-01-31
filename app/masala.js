@@ -162,4 +162,16 @@
 //     alert(`yigindi ${g}`)
 // }
 //----------------11---------------
-//
+ //if18
+// let a = +prompt("1-son");
+// let b = +prompt("2-son 3-son ");
+// if (a > b) {
+//     alert(`${b}Soni teng`)
+// }
+//----------------12---------------
+ //if19
+// let a = +prompt("1-son");
+// let c = +prompt("2-son 3-son 4-son ");
+// if (a > c) {
+//     alert(`${c}Soni teng`)
+// }
